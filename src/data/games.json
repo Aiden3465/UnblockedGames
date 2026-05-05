@@ -1,0 +1,42 @@
+[
+  {
+    "id": "2048",
+    "title": "2048",
+    "category": "Puzzle",
+    "thumbnail": "https://images.unsplash.com/photo-1614332287897-cdc485fa562d?q=80&w=400&h=300&auto=format&fit=crop",
+    "iframeUrl": "https://play2048.co/",
+    "description": "Join the numbers and get to the 2048 tile!"
+  },
+  {
+    "id": "hextris",
+    "title": "Hextris",
+    "category": "Arcade",
+    "thumbnail": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=400&h=300&auto=format&fit=crop",
+    "iframeUrl": "https://hextris.io/",
+    "description": "A fast-paced puzzle game inspired by Tetris."
+  },
+  {
+    "id": "snake",
+    "title": "Snake",
+    "category": "Classic",
+    "thumbnail": "https://images.unsplash.com/photo-1511512578047-dfb367046420?q=80&w=400&h=300&auto=format&fit=crop",
+    "iframeUrl": "https://www.google.com/logos/2010/pacman10-i.html",
+    "description": "Retro arcade fun. Also including Pacman here as an example."
+  },
+  {
+    "id": "tetris",
+    "title": "Tetris",
+    "category": "Arcade",
+    "thumbnail": "https://images.unsplash.com/photo-1585338107529-13afc5f02586?q=80&w=400&h=300&auto=format&fit=crop",
+    "iframeUrl": "https://tetris.com/play-tetris",
+    "description": "The classic block-stacking puzzle game."
+  },
+  {
+    "id": "flappy-bird",
+    "title": "Flappy Bird (Clone)",
+    "category": "Arcade",
+    "thumbnail": "https://images.unsplash.com/photo-1579373903781-fd5c0c30c4cd?q=80&w=400&h=300&auto=format&fit=crop",
+    "iframeUrl": "https://flappybird.io/",
+    "description": "Flap your wings and avoid the pipes."
+  }
+]
